@@ -35,12 +35,3 @@ The complete system, comprising the XY positioning system and dipping mechanism,
 ![Complete System](images/complete_system.png)
 
 For a detailed bill of materials, refer to the [Appendix](appendix/bill_of_materials.md).
-
-## Appendix
-
-- [Wiring Diagram](appendix/wiring_diagram.md)
-- [Pseudo-code for Stepper Motor](appendix/pseudocode.md)
-
----
-
-Feel free to explore the provided documentation and follow the development process in the respective sections. For any questions or collaboration inquiries, please contact the project contributors.
