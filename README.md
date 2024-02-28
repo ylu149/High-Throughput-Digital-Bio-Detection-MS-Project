@@ -50,6 +50,4 @@ The electrical system showing how the stepper motors are wired is shown below. N
 - Mete Aslan: For the feedback he provided as a PhD student.  
 
   
-For a detailed bill of materials, refer to the [BOM.xlsx](BOM.xlsx).
-
-For more detailed explanations please refer to the report.pdf document. 
+###For more detailed explanations please refer to the report.pdf and BOM.XLSX documents. 
