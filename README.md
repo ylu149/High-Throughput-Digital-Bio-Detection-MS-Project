@@ -1,5 +1,8 @@
 # Automated High-Throughput Virus Detection System
 
+## Project Demo
+https://drive.google.com/file/d/1OpM7CCfLptdZOMjBMuT8S1R-RPZTFUh5/view?usp=sharing
+
 ## Introduction
 
 In response to the growing threat of infectious diseases and viruses, especially in the post-COVID-19 era, there is an urgent need for cost-effective, multiplexed, label-free, high-throughput virus detection methods for small single samples. This project aims to design and prototype an automated system that can seamlessly transport and center a standardized microtiter plate's wells in front of a stationary Interferometric Reflectance Imaging Sensor (IRIS) optical system. The system facilitates high-throughput digital measurements of distinct binding events within each well, providing unprecedented sensitivity and resolution.
