@@ -44,10 +44,11 @@ The electrical system showing how the stepper motors are wired is shown below. N
 
 ## Credits
 - Harisson Cao: For being my partner throughout this project. 
-- Mete Aslan: For the feedback he provided as a PhD student.  
-- Selim Unlu: For being the advising professor on this project.
 - Andrew Gentile: For providing feedback as an engineer in industry. 
-- The anonymous machinist who helped machine parts and gave feedback.
+- The anonymous machinist who helped machine parts and gave GD&T feedback.
+- Selim Unlu: For being the advising professor on this project.
+- Mete Aslan: For the feedback he provided as a PhD student.  
+
   
 For a detailed bill of materials, refer to the [BOM.xlsx](BOM.xlsx).
 
