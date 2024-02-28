@@ -1,3 +1,2 @@
-# .gitignore
-*.hex
-*.elf
+# .gitattributes
+* text=auto
