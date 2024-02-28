@@ -34,4 +34,4 @@ The complete system, comprising the XY positioning system and dipping mechanism,
 
 ![Complete System](images/complete_system.png)
 
-For a detailed bill of materials, refer to the [Appendix](appendix/bill_of_materials.md).
+For a detailed bill of materials, refer to the [Appendix](BOM.xlsx).
