@@ -34,4 +34,9 @@ The complete system, comprising the XY positioning system and dipping mechanism,
 
 ![Complete System](images/complete_system.png)
 
+## Arduino Wiring Diagram
+The electrical system showing how the stepper motors are wired is shown below. Note each stepper motor, gets it's own Arduino and driver. 
+
+![Wiring Diagram](images/arduino_wiring.png)
+
 For a detailed bill of materials, refer to the [BOM.xlsx](BOM.xlsx).
