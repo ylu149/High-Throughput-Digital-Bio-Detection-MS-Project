@@ -42,6 +42,11 @@ The electrical system showing how the stepper motors are wired is shown below. N
 
 ![Wiring Diagram](images/arduino_wiring.png)
 
+## Credits
+- Harisson Cao: For being my partner throughout this project. 
+- Mete Aslan: For the feedback he provided as a PhD student.  
+- Selim Unlu: For being the advising professor on this project. 
+  
 For a detailed bill of materials, refer to the [BOM.xlsx](BOM.xlsx).
 
 For more detailed explanations please refer to the report.pdf document. 
